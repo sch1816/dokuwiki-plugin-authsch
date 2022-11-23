@@ -1,6 +1,6 @@
 <?php
 
-namespace dokuwiki\plugin\oauthgeneric;
+namespace dokuwiki\plugin\oauthauthsch;
 
 /**
  * Dot notation access to arrays
