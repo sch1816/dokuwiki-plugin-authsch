@@ -1,6 +1,6 @@
 base   oauthauthsch
-author Aron Szabo / Andreas Gohr
-email  dokuwiki@cosmocode.de
-date   2022-02-13
+author Aron Szabo
+email  aron@szaboaron.hu
+date   2022-11-24
 name   oauth AuthSch Service
 desc   AuthSch Service for use with the oAuth Plugin
