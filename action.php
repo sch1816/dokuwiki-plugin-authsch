@@ -52,7 +52,6 @@ class action_plugin_oauthauthsch extends Adapter
                                 }
                             }
                         }
-                        print($circle['status']);
                         if($circle['status']=='körvezető'){
                             $role_x_groupname=$this->getConf('authsch_korvez_role');
                         }else if($circle['status']=='öregtag'){
